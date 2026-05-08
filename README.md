@@ -61,7 +61,7 @@ Each project contains code, experiments, and its own README.
 
 ## Contact
 
-* LinkedIn: *(add your link)*
+* LinkedIn: *www.linkedin.com/in/firas-armoush-ai*
 * GitHub: https://github.com/F-Armoush
 
 ---
