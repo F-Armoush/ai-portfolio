@@ -1,69 +1,135 @@
 # AI/ML Engineering Portfolio — Firas Armoush
 
-End-to-end AI and Machine Learning projects demonstrating **data processing, model development, and deployment-ready systems**.
+End-to-end AI and Machine Learning projects demonstrating data processing, model development, reproducible experimentation, and production-oriented ML engineering.
 
-Focused on building **practical, production-oriented AI solutions**.
+Focused on building practical AI systems with strong emphasis on clean architecture, reproducibility, and real-world applicability.
 
 ---
 
 ## Projects
 
+### ICU Prediction for COVID-19 Patients
+
+Early-stage ICU prediction system using leakage-safe patient-level modeling and clinical tabular data.
+
+Key highlights:
+
+* Temporal leakage prevention
+* End-to-end preprocessing pipeline
+* Logistic Regression, Random Forest, and XGBoost modeling
+* Automated evaluation reporting
+* Versioned model and metrics tracking
+* Modular ML system architecture
+
+Repository:
+
+* [icu-covid19-prediction](https://github.com/F-Armoush/icu-covid19-prediction?utm_source=chatgpt.com)
+
+---
+
 ### Spam Classifier (NLP)
 
 * Text classification using TF-IDF + Logistic Regression
-* Focus on preprocessing, feature engineering, evaluation
+* NLP preprocessing and feature engineering
+* Model evaluation and experimentation pipeline
+
+Repository:
+
+* *(coming soon)*
+
+---
 
 ### Car Price Prediction
 
-* Regression model on tabular data
-* Feature engineering and model tuning
+* Regression modeling on tabular data
+* Feature engineering and model optimization
+* Exploratory data analysis and evaluation
 
-### Computer Vision Project
+Repository:
 
-* Image classification using deep learning
+* *(coming soon)*
+
+---
 
 ### NLP Pipeline
 
-* Text processing and scalable pipeline design
+* Text preprocessing and scalable NLP pipeline design
+* Modular preprocessing architecture
+
+Repository:
+
+* *(coming soon)*
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-* Python, NumPy, Pandas
-* Scikit-learn, TensorFlow / PyTorch
-* FastAPI (for deployment)
+### Languages & Core Libraries
+
+* Python
+* NumPy
+* Pandas
+
+### Machine Learning & AI
+
+* Scikit-learn
+* XGBoost
+* TensorFlow / PyTorch
+
+### Visualization & Analysis
+
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+### Engineering & Tooling
+
+* Git
+* GitHub
 * Docker
+* FastAPI
+* Cursor
 
 ---
 
-## Structure
+## What This Portfolio Demonstrates
 
-```
-ai-portfolio/
-├── spam-classifier/
-├── car-price-prediction/
-├── cv-project/
-├── nlp-project/
-```
-
-Each project contains code, experiments, and its own README.
+* End-to-end ML workflow development
+* Reproducible machine learning pipelines
+* Data preprocessing and feature engineering
+* Clinical and tabular ML modeling
+* Modular project architecture
+* Experiment tracking and artifact generation
+* Production-oriented engineering practices
+* Strong focus on practical, real-world ML systems
 
 ---
 
-## What This Shows
+## Repository Structure
 
-* Ability to build **end-to-end ML systems**
-* Experience with **NLP, CV, and tabular data**
-* Strong focus on **clean engineering and real-world use cases**
+```text id="i9qz5l"
+GitHub Repositories
+├── icu-covid19-prediction
+├── spam-classifier
+├── car-price-prediction
+└── nlp-project
+```
+
+Each repository contains:
+
+* experiments
+* modular source code
+* documentation
+* evaluation artifacts
+* reproducible workflows
 
 ---
 
 ## Contact
 
-* LinkedIn: *www.linkedin.com/in/firas-armoush-ai*
-* GitHub: https://github.com/F-Armoush
+* [LinkedIn – Firas Armoush](https://www.linkedin.com/in/firas-armoush-ai?utm_source=chatgpt.com)
+* [GitHub – F-Armoush](https://github.com/F-Armoush?utm_source=chatgpt.com)
 
 ---
 
-> “Building models is easy. Building usable systems is what matters.”
+> “Building models is easy. Building reliable and reproducible ML systems is what matters.”
